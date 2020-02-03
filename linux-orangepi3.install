@@ -1,0 +1,3 @@
+post_upgrade() {
+	update-pi3-ramdisk.sh
+}
